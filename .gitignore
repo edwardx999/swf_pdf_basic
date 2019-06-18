@@ -3,6 +3,6 @@
 .pmd
 .settings/
 target/
-
+*.class 
 /pom.xml.releaseBackup
 /release.properties
